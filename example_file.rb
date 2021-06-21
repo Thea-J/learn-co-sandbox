@@ -1,0 +1,6 @@
+puts "Hello World!"
+puts "hi"
+print "hi"
+puts "Hello World\n"
+print "Hello World\n"
+p "Hello World\n"
